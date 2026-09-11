@@ -3,7 +3,9 @@
 Projeto desenvolvido para o desafio de criação de um Caderno Temático no NotebookLM, parte do curso de N8N da [DIO](https://www.dio.me/).
 
 ## 🎯 Contexto e Objetivos
-*(Escreva 1 ou 2 parágrafos explicando por que você escolheu unir o Front-end moderno com Ferramentas de Automação como o n8n e qual o seu objetivo ao estudar isso).*
+"Este caderno temático nasceu da vontade de explorar como o Front-end moderno está se transformando com o avanço da automação. Com IAs gerativas acelerando a criação de interfaces e ferramentas low-code como o n8n democratizando as integrações complexas, o papel do desenvolvedor está mudando rapidamente.
+
+O objetivo deste material de estudo é documentar os conceitos mais críticos dessa intersecção entre Front-end e Automação. Utilizando o NotebookLM, estruturei este guia para ser uma ferramenta de aprendizagem ativa, capaz de me apoiar em revisões futuras e me preparar para projetar aplicações que sejam não apenas velozes para o usuário, mas que possuam integrações robustas e fluxos automatizados nos bastidores."
 
 ## 📚 Curadoria de Fontes
 Para alimentar a Inteligência Artificial, foram selecionadas fontes de alta qualidade:
